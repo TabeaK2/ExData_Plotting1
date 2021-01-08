@@ -1,3 +1,7 @@
+## Assignment Week 1
+
+This is my submission for the week 1 course project for "Exploratory Data Analysis" at Coursera. The assignment was completed according to the below instructions and each R script contains code commentary to facilitate review.
+
 ## Introduction
 
 This assignment uses data from
